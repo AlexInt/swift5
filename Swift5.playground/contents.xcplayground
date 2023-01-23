@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='000_content'/>
+        <page name='001_basic_operator'/>
+        <page name='002_character'/>
+        <page name='003_String'/>
+        <page name='003_string_handle'/>
+        <page name='004_collection_array'/>
+        <page name='004_collection_dictionary'/>
+        <page name='004_collection_set'/>
+        <page name='005_controlflow'/>
+        <page name='005_controlflow_switch'/>
+        <page name='005_controlflow_guard_else'/>
+    </pages>
+</playground>
